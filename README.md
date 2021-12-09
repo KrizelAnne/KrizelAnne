@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ma. Krizel Anne V. Zulueta 18-years-old
+- 👀 I’m interested in Java, C++, C, Python etc.
+- 🌱 I’m currently learning Object Oriented Programming, Information Management and Logic Designs 
+- 💞️ I’m looking to collaborate on UI/UX,Cybersecurity, etc.
+- 📫 Email: krizelanne.06@gmail.com and Phone Number :09453408709
